@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPUs</string>
+    <string name="gpu1">Nvidia GeForce RTX 3060 Ti</string>
+    <string name="gpu2">Nvidia GeForce RTX 3080</string>
+    <string name="gpu3">Nvidia GeForce RTX 3080 Ti</string>
+    <string name="gpu4">Nvidia GeForce RTX 3090</string>
+    <string name="gpu5">AMD Radeon RX 6600 XT</string>
+    <string name="gpu6">Nvidia GeForce RTX 3070</string>
+    <string name="gpu7">AMD Radeon RX 6700 XT</string>
+    <string name="gpu8">AMD Radeon RX 6800</string>
+    <string name="gpu9">MSI RTX 3090 Gaming X Trio</string>
+    <string name="gpu10">Nvidia GeForce RTX 3050</string>
+</resources>
